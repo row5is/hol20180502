@@ -6067,7 +6067,7 @@
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/1.1.0": {
-      "sha512": "5iYYGkxBwsUfiYWegqeZX14GUPyNMROTM4rtfFeQdm+fZdlT+UNV00H4yPD/eCYnUA7k0uBefiRhcSqcHfOCnQ==",
+      "sha512": "HS3iRWZKcUw/8eZ/08GXKY2Bn7xNzQPzf8gRPHGSowX7u7XXu9i9YEaBeBNKUXWfI7qjvT2zXtLUvbN0hds8vg==",
       "type": "package",
       "path": "microsoft.codeanalysis.analyzers/1.1.0",
       "files": [
@@ -11479,7 +11479,7 @@
       ]
     },
     "System.Runtime.Serialization.Formatters/4.3.0": {
-      "sha512": "KT591AkTNFOTbhZlaeMVvfax3RqhH1EJlcwF50Wm7sfnBLuHiOeZRRKrr1ns3NESkM20KPZ5Ol/ueMq5vg4QoQ==",
+      "sha512": "5F0DSAJbJ5+NLDIgEP8r+qZQTqFD/jXbvJ/60D5UuKphEySMHMxtSpEfdvv5DMDhCMM0Hw3Xx+EjiHCe5Jbpbg==",
       "type": "package",
       "path": "system.runtime.serialization.formatters/4.3.0",
       "files": [
@@ -13124,25 +13124,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\RobKeiser\\.nuget\\packages\\": {},
+    "C:\\Users\\rdkeiser.MAN.001\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\pdnhol\\RazorPagesMovie\\RazorPagesMovie.csproj",
+      "projectUniqueName": "E:\\pdnhol2\\hol20180502\\RazorPagesMovie.csproj",
       "projectName": "RazorPagesMovie",
-      "projectPath": "C:\\pdnhol\\RazorPagesMovie\\RazorPagesMovie.csproj",
-      "packagesPath": "C:\\Users\\RobKeiser\\.nuget\\packages\\",
-      "outputPath": "C:\\pdnhol\\RazorPagesMovie\\obj\\",
+      "projectPath": "E:\\pdnhol2\\hol20180502\\RazorPagesMovie.csproj",
+      "packagesPath": "C:\\Users\\rdkeiser.MAN.001\\.nuget\\packages\\",
+      "outputPath": "E:\\pdnhol2\\hol20180502\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\RobKeiser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rdkeiser.MAN.001\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
@@ -13150,7 +13150,10 @@
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Code\\AISAuthoring-trunk\\localNuget\\CreateUpdateScriptNuget": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://proget.homenet.local/nuget/COXAutomotiveSoftware": {},
+        "http://proget.homenet.local/nuget/HomeNet": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
